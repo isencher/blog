@@ -23,7 +23,7 @@ I use Hugo, a feature-rich static site generator that automatically creates web 
     - 1.1 create local repo
     - 1.2 create the match remote repo and sync
     - 1.3 delete local repo
-    - 1.4 set the repo to link https://isencher.github.io
+    - 1.4 Link the repository to https://isencher.github.io
  - 2 create **blog** repo 
     - 2.1 create local repo with hugo
     - 2.2 add submodule ananke theme
@@ -62,7 +62,7 @@ rm isencher.github.io -force
 ```
 when meet confirmation, answer a(all).
 
-#### 1.4 set the repo to link https://isencher.github.io
+#### 1.4 Link the repository to https://isencher.github.io
 browse https://github.com/isencher/isencher.github.io and click **Settings**, select **Pages** on side bar, select "Deploy from a branch" from **Source**'s dropdown menu, and select "master" and "/(root)" in **Branch** section, the click nearby **Save**.
 after above operation, the https://isencher.github.io web is live.
 
