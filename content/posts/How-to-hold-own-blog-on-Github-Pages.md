@@ -156,9 +156,3 @@ git push
 ```
 
 then, if you reopen https://isencher.github.io, you can see the new blog.
-
-
-
-
-
-
